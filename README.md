@@ -2,7 +2,6 @@
 
 Welcome to the **Eye Movement and Hand Cursor** project! This cutting-edge application uses eye tracking and hand gesture recognition to control the cursor, providing a unique and intuitive way to interact with your computer.
 
-![Eye Tracking Animation](https://media.giphy.com/media/QvBoMEcQ7v1F2/giphy.gif)
 
 ## 🎯 Project Overview
 
@@ -12,7 +11,6 @@ This project aims to revolutionize user interaction by integrating eye and hand 
 - 🤲 **Hand Gestures**: Perform actions with hand movements.
 - 🔄 **Seamless Interaction**: Smooth and intuitive user experience.
 
-![Hand Gesture Animation](https://media.giphy.com/media/l2JdXW07dLlZXTVy8/giphy.gif)
 
 ## 🚀 Features
 
@@ -44,5 +42,5 @@ Contributions are welcome! Feel free to fork the repository, enhance the existin
 📬 Contact
 For any questions or feedback, you can reach out:
 
-GitHub: Harinisenthilkumar
-Portfolio: Harini's Portfolio
+GitHub: https://github.com/Harinisenthilkumar
+Portfolio:https://66ae3bdaa22e2a9586ea3932--jade-lollipop-e61d63.netlify.app/ my portfolio link
